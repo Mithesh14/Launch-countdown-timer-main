@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="https://mithesh14.github.io/Edie-homepage/">Edie Homepage</a>
+- Solution URL: <a href="https://mithesh14.github.io/Edie-homepage/">Launch Countdown timer</a>
 
 ## My process
 
@@ -56,13 +56,12 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Stackoverflow](https://stackoverflow.com/) - This helped me for javascript writing purpose.
 
 
 ## Author
 
-- Website - [Mithesh](https://www.your-site.com)
+- Website - [Mithesh](https://mithesh14.netlify.app/)
 
 
 
